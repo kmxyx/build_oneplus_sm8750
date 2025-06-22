@@ -19,7 +19,7 @@ on:
       enable_feature_x:
        description: "启用kpm"
        required: false
-       default: false
+       default: true
        type: boolean
       enable_feature_y:
        description: "启用lz4+zstd"
