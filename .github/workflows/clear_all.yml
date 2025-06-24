@@ -13,6 +13,7 @@ on:
         required: true
         default: 'oneplus_ace5_pro'
         options:
+          - Build_oneplus_sm8750
           - oneplus_ace5_pro
           - oneplus_13
           - oneplus_13T
